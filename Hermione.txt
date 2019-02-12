@@ -1,0 +1,10 @@
+1. Hermione’s parents are pediatricians.
+false
+2. Hermione has a cat named Crookshanks.
+true
+3. Hermione went to the Yule Ball with Viktor Krum.
+true
+4. The Sorting Hat almost put Hermione in Slytherin.
+false
+5. Hermione uses a Time Turner to get to all of her classes in their third year.
+true

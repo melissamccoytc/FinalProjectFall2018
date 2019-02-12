@@ -1,0 +1,10 @@
+1. Harry’s father is named James.
+true
+2. Harry was born in Little Whinging.
+false
+3. Harry received a broomstick during his first Christmas at Hogwarts.
+false
+4. Harry became an Auror when he grew up.
+true
+5. Harry’s birthday is January 31st.
+false

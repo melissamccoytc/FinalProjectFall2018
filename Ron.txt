@@ -1,0 +1,10 @@
+1. Ron has five brothers.
+true
+2. Ron’s position on the Quidditch team was Chaser.
+false
+3. Ron’s patronus is a dog.
+true
+4. Ron had a pet rat named Scabbers.
+true
+5. Ron is afraid of snakes.
+false
